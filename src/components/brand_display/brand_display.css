@@ -1,0 +1,12 @@
+.brand-row-container {
+  display: flex;
+  width: 95%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 20px;
+}
+.logo-brands {
+  height: 120px;
+  width: 120px;
+}

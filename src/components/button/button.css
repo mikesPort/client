@@ -1,0 +1,10 @@
+.container-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  padding: 8px 16px;
+  border-radius: 50px;
+  font-family: "inter";
+  font-weight: 700;
+}

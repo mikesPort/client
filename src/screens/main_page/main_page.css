@@ -1,0 +1,22 @@
+.content-container {
+  display: flex;
+  padding: 80px 80px 80px 80px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.info-block-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.case-study-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.brand-container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}

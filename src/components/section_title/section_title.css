@@ -1,0 +1,17 @@
+.section-title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 46px;
+  flex-direction: row;
+}
+.line-design {
+  height: 4px;
+  width: 40px;
+  background-color: #d100c9;
+  margin-right: 20px;
+}
+.header-style {
+  font-family: "inter";
+  font-weight: 400;
+}
